@@ -27,6 +27,7 @@
 		8E9EAD251E02F02D007EB23D /* FKOnbarStatusModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E9EAD1F1E02F02D007EB23D /* FKOnbarStatusModel.m */; };
 		8E9EAD271E02F29A007EB23D /* Foundation+Log.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E9EAD261E02F29A007EB23D /* Foundation+Log.m */; };
 		945CF15458E6D0DEB971F48F /* libPods-MJExtensionDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 011A78BA21FD0415F4DE0DAF /* libPods-MJExtensionDemo.a */; };
+		B31261BC2421B42C00DD2A66 /* testa.m in Sources */ = {isa = PBXBuildFile; fileRef = B31261BB2421B42C00DD2A66 /* testa.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,6 +89,8 @@
 		8E9EAD1F1E02F02D007EB23D /* FKOnbarStatusModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FKOnbarStatusModel.m; sourceTree = "<group>"; };
 		8E9EAD261E02F29A007EB23D /* Foundation+Log.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Foundation+Log.m"; sourceTree = "<group>"; };
 		91B84469059A8181C4497E9E /* libPods-MJExtensionDemoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MJExtensionDemoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B31261BA2421B42C00DD2A66 /* testa.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testa.h; sourceTree = "<group>"; };
+		B31261BB2421B42C00DD2A66 /* testa.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testa.m; sourceTree = "<group>"; };
 		CB9119AEEAE2F6553C645859 /* Pods-MJExtensionDemoUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MJExtensionDemoUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MJExtensionDemoUITests/Pods-MJExtensionDemoUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -189,6 +192,8 @@
 				8E9EAD1E1E02F02D007EB23D /* FKOnbarStatusModel.h */,
 				8E9EAD1F1E02F02D007EB23D /* FKOnbarStatusModel.m */,
 				8E9EAD261E02F29A007EB23D /* Foundation+Log.m */,
+				B31261BA2421B42C00DD2A66 /* testa.h */,
+				B31261BB2421B42C00DD2A66 /* testa.m */,
 				8E9EACDB1E02976D007EB23D /* Assets.xcassets */,
 				8E9EACDD1E02976D007EB23D /* LaunchScreen.storyboard */,
 				8E9EACE01E02976D007EB23D /* Info.plist */,
@@ -320,6 +325,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -493,6 +499,7 @@
 				8E9EAD211E02F02D007EB23D /* FKGameModel.m in Sources */,
 				8E9EAD071E02A1C2007EB23D /* User.m in Sources */,
 				8E9EAD231E02F02D007EB23D /* FKLoginModel.m in Sources */,
+				B31261BC2421B42C00DD2A66 /* testa.m in Sources */,
 				8E9EACD71E02976D007EB23D /* ViewController.m in Sources */,
 				8E9EAD241E02F02D007EB23D /* FKMedalsModel.m in Sources */,
 				8E9EAD201E02F02D007EB23D /* FKClanStatusModel.m in Sources */,
